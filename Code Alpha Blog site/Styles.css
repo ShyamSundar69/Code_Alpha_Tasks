@@ -103,6 +103,6 @@ body{
 }
 @media(max-width:1250px){
     .box{
-        width: 300px;
+        width: 250px;
     }
 }
